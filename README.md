@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hrashikesh Tiwari
-- 👀 I’m interested in Machine Learning Engineer/ Python developer
+- 👀 I’m interested in Machine Learning Engineer/ Python developer/ Data Analyst
 - 🌱 I’m currently learning ...Full Stack/Computer Vision
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
